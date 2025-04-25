@@ -8,6 +8,7 @@ package semana.pkg1.progra.i;
 public class Semana1PrograI {
     public static void main(String[] args) {
         System.out.println("Progra 1 Semana 1 Bienvenido");
+        System.out.println("Wacha lo que consegui");
         
     }
     
